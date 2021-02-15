@@ -1,4 +1,5 @@
 apt update
+# que?
 apt install -y git apache2
 cd /var/www/html
 rm index.html -f
